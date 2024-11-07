@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OneDrive\myprogram\Temp\TDK_FinialCode\.pio\libdeps\megaatmega2560\Unity\src\unity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OneDrive\myprogram\Temp\TDK_FinialCode\.pio\libdeps\megaatmega2560\Unity\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E6E07114-92F6-301F-B8C5-F0D0F7BEC727}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
